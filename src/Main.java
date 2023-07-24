@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("My name is akash");
         System.out.println(4+5);
+        System.out.println(4+0);
     }
 }
